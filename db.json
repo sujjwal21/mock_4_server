@@ -1,11 +1,12 @@
 {
     "users": [
       {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      }
+        "id":1,
+        "username":"sujjwal",
+        "email":"sujjwal8521@gmail.com",
+        "password":123456,
+        "repeatPass":123456
+    }
     ],
     "hotels": [
         {

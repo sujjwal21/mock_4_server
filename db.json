@@ -4,14 +4,12 @@
         "id":1,
         "username":"sujjwal",
         "email":"sujjwal8521@gmail.com",
-        "password":123456,
-        "repeatPass":123456
+        "password":123456
     },{
       "id":2,
       "username":"rajiv",
       "email":"sujjwal8521@gmail.com",
-      "password":12345678,
-      "repeatPass":12345678
+      "password":12345678
   }
     ],
     "movies" : [
